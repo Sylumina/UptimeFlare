@@ -5,7 +5,7 @@ const pageConfig: PageConfig = {
     { link: 'https://github.com/zhongruan052', label: 'GitHub' },
   ],
   group: {
-    '服务器': ['vps',
+    '服务器': ['vps'],
     '应用': ['Open-WebUI','API'],
   },
 }
